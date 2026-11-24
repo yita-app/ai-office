@@ -1,0 +1,8 @@
+{
+  "name": "ai-office",
+  "description": "YITA AI Office：多角色 AI 辦公室。雇員工、上班、互傳訊息、寫日記、存鑰匙、一鍵同步 Git。",
+  "version": "0.7.0",
+  "author": {
+    "name": "YITA"
+  }
+}

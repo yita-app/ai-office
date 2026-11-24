@@ -1,0 +1,14 @@
+{
+  "name": "yita",
+  "description": "YITA AI Office：多角色 AI 辦公室",
+  "owner": {
+    "name": "YITA"
+  },
+  "plugins": [
+    {
+      "name": "ai-office",
+      "source": "./",
+      "description": "YITA AI Office：多角色 AI 辦公室。雇員工、上班、互傳訊息、寫日記、存鑰匙、一鍵同步 Git。"
+    }
+  ]
+}

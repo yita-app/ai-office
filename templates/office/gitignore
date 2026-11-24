@@ -1,0 +1,19 @@
+# 鑰匙與機密：永遠不進 Git
+.env
+.env.*
+*.key
+*.pem
+keys.env
+
+# 大檔案（影片、音檔、原始素材）放雲端硬碟，不進 Git
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.psd
+
+# 系統雜檔
+.DS_Store
